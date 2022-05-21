@@ -1029,3 +1029,34 @@ li {
     }
 }
 
+@media (min-width: 1515px){
+       #home.intro{
+	       right: auto;
+	       left: 100px;
+	}
+	#education {
+		width: 1522px;
+	}
+	#skills {
+		width: 1522px;
+	}
+	#projects {
+		width: 1522px;
+	}
+	.color-require {
+		width: 1522px;
+		padding-right: 36px;
+		padding-left: 36px;
+	}
+	#contact {
+		padding-top: 50px;
+		width: 1522px;
+	}
+	.footer {
+		padding-right: 36px;
+		padding-left: 36px;
+		width: 1522px;
+	}
+	
+}
+
